@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "745748365254",
+    "firebase_url": "https://sonfcm-532e9.firebaseio.com",
+    "project_id": "sonfcm-532e9",
+    "storage_bucket": "sonfcm-532e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745748365254:android:265a46a8207676d9707cc7",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745748365254-dt7kk4hmeoa3iqsn1ldrseddiaqvb1q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_jWG2UFlabn8b9StGSSkWf4TEwpHDaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745748365254-dt7kk4hmeoa3iqsn1ldrseddiaqvb1q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745748365254:android:b960eb469e8dfd72707cc7",
+        "android_client_info": {
+          "package_name": "ttngocson.ntu.edu.vn.picasso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745748365254-h9mt37be6q00m6edfudj4bl8brgvmeto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ttngocson.ntu.edu.vn.picasso",
+            "certificate_hash": "d484ae0f96dcbf85ba07c5030ed50a2d0cf9d138"
+          }
+        },
+        {
+          "client_id": "745748365254-dt7kk4hmeoa3iqsn1ldrseddiaqvb1q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_jWG2UFlabn8b9StGSSkWf4TEwpHDaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745748365254-dt7kk4hmeoa3iqsn1ldrseddiaqvb1q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
